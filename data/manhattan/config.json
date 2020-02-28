@@ -1,0 +1,1 @@
+{"interval": 1.0, "seed": 0, "dir": "./", "roadnetFile": "manhattan.json", "flowFile": "manhattan_7846.json", "rlTrafficLight": false, "saveReplay": true, "roadnetLogFile": "roadnet_manhattan.json", "replayLogFile": "log.txt"}
